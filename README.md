@@ -177,9 +177,37 @@ The last method of protection was through the usage of a hash key.  Hash keys ar
   * CySA+ Log, SIEM, and Email Analysis
 
 <hr/>
+
+# Appendix 
+
+### CyberSecurity Roles and Required Skills:
+
+| Job Title                     | Description                                                                                                | Required Skills                                                |
+| ----------------------------- | ---------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| **Security Analyst**          | Monitors systems for security breaches, investigates incidents, and implements security measures.            | Threat analysis, incident response, knowledge of security tools. |
+| **Penetration Tester**        | Conducts simulated cyber attacks to identify vulnerabilities; requires ethical hacking skills.              | Ethical hacking, vulnerability assessment, programming skills.   |
+| **Incident Responder**        | Responds to security incidents, analyzes and mitigates impact, and implements strategies for prevention.    | Incident response, forensics, knowledge of security frameworks.  |
+| **Security Engineer**         | Designs, implements, and manages security systems; ensures the integrity and confidentiality of data.      | Network security, encryption, knowledge of security protocols.   |
+| **Security Consultant**       | Provides expert advice, conducts risk assessments, and assists in developing and implementing security solutions. | Risk management, consulting skills, knowledge of compliance standards. |
+| **Security Architect**        | Designs secure computer systems, networks, and applications; establishes security policies and standards.   | System architecture, cryptography, security framework knowledge. |
+| **Cybersecurity Manager**     | Oversees cybersecurity strategy, manages teams, and ensures the implementation of effective security policies. | Leadership, strategic planning, communication skills.           |
+| **SOC Analyst**               | Monitors, analyzes, and responds to security alerts in real-time; works in a Security Operations Center (SOC). | SIEM tools, incident detection, knowledge of threat landscapes. |
+| **Network Security Engineer** | Focuses on securing network infrastructure, including firewalls, VPNs, and intrusion detection/prevention systems. | Network protocols, firewall management, security architecture. |
+| **Threat Intelligence Analyst**| Gathers and analyzes information about cyber threats to provide timely intelligence for decision-making.    | Threat intelligence platforms, analysis tools, industry knowledge. |
+
 <img src="images/img_1.png">
 
-# Author: Carl Laneave (cjl29@psu.edu) 
+### Final Notes on IST894
+
+  Throughout my program in cybersecurity analytics, I have learned and mastered several different skills.  Whether it was threat modeling, predictive analysis, SIEMS or general vulnerability testing, the program of IST 894 wrapped it all up into a single class of skills.  
+  
+In this course, all of my master's program skills were put to the test in simulated scenarios that an IT Security professional would face day to day.  One of the things that really helped to tether everything together was doing actual hands on labs that were reflective of each scope of work learned.
+
+Overall, by learning a large scope of skills and processes related to cybersecurity, we have been taught to be well-rounded security professionals and also what to expect in our day to day.
+The cybersecurity field is ever evolving, and it is impossible to cover every single topic even in a masters program.  What my capstone did teach me is to take the skills I have acquired by learning through application and continue to expand on them.
+Acquiring a masters is just the beginning, as my drive to continue to learn will directly impact and direct my future professional career. 
+I am happy to have completed this program and become part of the Penn State alumni.  #WEARE
+#### Author: Carl Laneave (cjl29@psu.edu) 
 <b><i>Penn State University Graduate Program, CyberSecurity Analytics, 2023</i></b>
 
 
