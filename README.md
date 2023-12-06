@@ -13,19 +13,37 @@ Each portfolio item is listed based on the assignment given and tracked using VC
  | State Modeling - Intelligent Agent Project       | Coding Example       | [IST555 - Code Repo](https://github.com/claneave28/intelligent_agent_ist555) |
 
 # Coding Projects
-### Secure Web Application
-- **Description:** Developed a robust web application with a primary focus on implementing secure coding practices.
+### IST555 - State Modeling
+- **Description:** Developed a state modeling python framework that would review potential impacts to supply chain based on supply and demand.
 
 - **Key Features:**
-Authentication and authorization mechanisms to safeguard user data.
-Comprehensive input validation to prevent common web vulnerabilities.
+  * Dynamically generated Wiki using Sphnix.
+  * Global classes to create re-usability on a variance of parameters and inputs.
+  * Written exclusively in Python and deployed using Github Actions.
+  * Yaml input files to control overall inputs into mutable variables
 
 # Architecture Diagrams
 ### Network Security Architecture
 - **Description:** Presented a comprehensive network security architecture incorporating firewalls, intrusion detection/prevention systems, and secure network segmentation.
 
 - **Notable Elements:**
-Implementation of VPNs for secure remote access.
+  * Implementation of VPNs for secure remote access.
+  * Setup of VLANs for multisite connectivity
+  * Overall full network design of an enterprise with remote locations
+
+### Serverless Security Architecture
+- **Description:**  An AWS based microservice application that is designed to do event driven management and remediation on potential security events.
+- **Notable Elements:**
+  * Immediate evaluation of events in real time
+  * Ability to include an exceptions table to avoid issues with applications approved for certain configurations
+  * Fully fed into dynamodb and then pressed to Athena, allowing for easy querying on events
+
+### Packer Golden Image AMI Architecture
+- **Description:**  An AWS based microservice application that is designed to create, test and bootstrap a hardened ami image to be used across multiple cloud environemnts.  
+- **Notable Elements:**
+  * Complete tracking of security fixes and their related Benchmark
+  * Cloud Agnostic - Can run the same security bootstrapping regardless of public cloud provider
+  * Full end-to-end testing and tracking prior to deployment to the organization.
 
 # Product Review
 ### Cyber Range Evaulation
