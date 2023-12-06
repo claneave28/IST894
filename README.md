@@ -114,14 +114,21 @@ Security Policy Review
 Procedures for identification, containment, eradication, recovery, and lessons learned.
 Security Policy Review
 
-### Lab 1
+### Lab 10
 - **Description:** Developed a comprehensive incident response plan for a simulated security incident.
 
 - **Key Components:**
 Procedures for identification, containment, eradication, recovery, and lessons learned.
 Security Policy Review
 
-### Lab 1
+### Lab 11
+- **Description:** Developed a comprehensive incident response plan for a simulated security incident.
+
+- **Key Components:**
+Procedures for identification, containment, eradication, recovery, and lessons learned.
+Security Policy Review
+
+### Lab 12
 - **Description:** Developed a comprehensive incident response plan for a simulated security incident.
 
 - **Key Components:**
