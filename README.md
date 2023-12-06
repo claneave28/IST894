@@ -17,11 +17,11 @@ Welcome to my Cybersecurity Portfolio for IST894! This repository showcases the 
 - **Key Features:**
   * Dynamically generated Wiki using Sphnix.
   * Global classes to create re-usability on a variance of parameters and inputs.
-  * Written exclusively in Python and deployed using Github Actions.
+  * Written exclusively in Python and deployed using GitHub Actions.
   * Yaml input files to control overall inputs into mutable variables
 
-# Architecture Diagrams ![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ([Folder](Architectural%20Designs/))
-### Network Security Architecture
+# Architecture Diagrams ![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) 
+### Network Security Architecture ([Diagram](https://github.com/claneave28/network-design/blob/main/overall_network.png))
 - **Description:** Presented a comprehensive network security architecture incorporating firewalls, intrusion detection/prevention systems, and secure network segmentation.
 
 - **Notable Elements:**
@@ -29,27 +29,97 @@ Welcome to my Cybersecurity Portfolio for IST894! This repository showcases the 
   * Setup of VLANs for multisite connectivity
   * Overall full network design of an enterprise with remote locations
 
-### Serverless Security Architecture
+### Serverless Security Architecture ([Diagram](https://github.com/claneave28/AWS-Serverless-Architecture-Model/blob/master/AutomationFramework_arch.png))
 - **Description:**  An AWS based microservice application that is designed to do event driven management and remediation on potential security events.
 - **Notable Elements:**
   * Immediate evaluation of events in real time
   * Ability to include an exceptions table to avoid issues with applications approved for certain configurations
   * Fully fed into dynamodb and then pressed to Athena, allowing for easy querying on events
 
-### Packer Golden Image AMI Architecture
-- **Description:**  An AWS based microservice application that is designed to create, test and bootstrap a hardened ami image to be used across multiple cloud environemnts.  
+### Packer Golden Image AMI Architecture ([Diagram](https://github.com/claneave28/AWS-Serverless-Architecture-Model/blob/master/AutomationFramework_arch.png))
+- **Description:**  An AWS based microservice application that is designed to create, test and bootstrap a hardened ami image to be used across multiple cloud environments.  
 - **Notable Elements:**
   * Complete tracking of security fixes and their related Benchmark
   * Cloud Agnostic - Can run the same security bootstrapping regardless of public cloud provider
   * Full end-to-end testing and tracking prior to deployment to the organization.
 
-# Product Review
-### Cyber Range Evaluation
+# Product Review ![](https://img.shields.io/badge/Product-Reviews-blue)
+### Cyber Range Evaluation ([Evaluation](Cyber-Range-Evaluation/))
 
 - **Description:**
 Reviewed multiple different vendors to identify which fit the need of our mock organization based on key contributing metrics of evaluation
 
-# Assignments
+# <img src="images/img.png" width="45" height="45"> PSU Assignments  ([Master Folder](Labs/))
+### Lab 1
+- **Description:** Developed a comprehensive incident response plan for a simulated security incident.
+
+- **Key Components:**
+Procedures for identification, containment, eradication, recovery, and lessons learned.
+Security Policy Review
+
+### Lab 2
+- **Description:** Developed a comprehensive incident response plan for a simulated security incident.
+
+- **Key Components:**
+Procedures for identification, containment, eradication, recovery, and lessons learned.
+Security Policy Review
+
+### Lab 3
+- **Description:** Developed a comprehensive incident response plan for a simulated security incident.
+
+- **Key Components:**
+Procedures for identification, containment, eradication, recovery, and lessons learned.
+Security Policy Review
+
+### Lab 4
+- **Description:** Developed a comprehensive incident response plan for a simulated security incident.
+
+- **Key Components:**
+Procedures for identification, containment, eradication, recovery, and lessons learned.
+Security Policy Review
+
+### Lab 5
+- **Description:** Developed a comprehensive incident response plan for a simulated security incident.
+
+- **Key Components:**
+Procedures for identification, containment, eradication, recovery, and lessons learned.
+Security Policy Review
+
+### Lab 6
+- **Description:** Developed a comprehensive incident response plan for a simulated security incident.
+
+- **Key Components:**
+Procedures for identification, containment, eradication, recovery, and lessons learned.
+Security Policy Review
+
+### Lab 7
+- **Description:** Developed a comprehensive incident response plan for a simulated security incident.
+
+- **Key Components:**
+Procedures for identification, containment, eradication, recovery, and lessons learned.
+Security Policy Review
+
+### Lab 8
+- **Description:** Developed a comprehensive incident response plan for a simulated security incident.
+
+- **Key Components:**
+Procedures for identification, containment, eradication, recovery, and lessons learned.
+Security Policy Review
+
+### Lab 9
+- **Description:** Developed a comprehensive incident response plan for a simulated security incident.
+
+- **Key Components:**
+Procedures for identification, containment, eradication, recovery, and lessons learned.
+Security Policy Review
+
+### Lab 1
+- **Description:** Developed a comprehensive incident response plan for a simulated security incident.
+
+- **Key Components:**
+Procedures for identification, containment, eradication, recovery, and lessons learned.
+Security Policy Review
+
 ### Lab 1
 - **Description:** Developed a comprehensive incident response plan for a simulated security incident.
 
@@ -59,13 +129,8 @@ Security Policy Review
 
 <hr/>
 
-# How to Use This Repository
-Each assignment, reviews and designs folder contains detailed documentation, source code, and relevant artifacts.
-Architecture diagrams are provided in the "Architectural Designs" directory.
-Feel free to explore the contents, delve into the documentation, and gain insights into my journey in the realm of cybersecurity. Your feedback and inquiries are highly welcome!
-
-Happy Exploring! 🚀
-
+# Author: Carl Laneave 🚀
+<b><i>Penn State University Graduate Program, 2023</i></b>
 
 
 
