@@ -1,9 +1,9 @@
 # IST894 - Carl Laneave's Portfolio [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/claneave28)   [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carl-laneave/) [![mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:claneave28@gmail.com?subject=Hi Carl)
 
 
- ![Github Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=claneave28&theme=dark) ![Github](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=claneave28&theme=dark)
-
+ ![Github Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=claneave28&theme=dark) 
 <hr/>
+
 # Portfolio 
 
 Welcome to my Cybersecurity Portfolio for IST894! This repository showcases the technical expertise and accomplishments throughout my journey in my masters program. Here, you'll find a collection of coding projects, detailed architecture diagrams, and completed assignments, all reflecting my commitment to mastering the intricacies of cybersecurity.
