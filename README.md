@@ -197,7 +197,7 @@ The last method of protection was through the usage of a hash key.  Hash keys ar
 
 <img src="images/img_1.png">
 
-### Final Notes on IST894
+### Final Reflections on IST894
 
   Throughout my program in cybersecurity analytics, I have learned and mastered several different skills.  Whether it was threat modeling, predictive analysis, SIEMS or general vulnerability testing, the program of IST 894 wrapped it all up into a single class of skills.  
   
