@@ -22,7 +22,7 @@ Each portfolio item is listed based on the assignment given and tracked using VC
   * Written exclusively in Python and deployed using Github Actions.
   * Yaml input files to control overall inputs into mutable variables
 
-# Architecture Diagrams
+# Architecture Diagrams ([Folder](Architectural%20Designs/))
 ### Network Security Architecture
 - **Description:** Presented a comprehensive network security architecture incorporating firewalls, intrusion detection/prevention systems, and secure network segmentation.
 
@@ -46,13 +46,10 @@ Each portfolio item is listed based on the assignment given and tracked using VC
   * Full end-to-end testing and tracking prior to deployment to the organization.
 
 # Product Review
-### Cyber Range Evaulation
+### Cyber Range Evaluation
 
 - **Description:**
-Illustrated a robust security framework for cloud-based applications.
-
-- **Key Components:**
-Secure data storage, identity and access management, and continuous monitoring.
+Reviewed multiple different vendors to identify which fit the need of our mock organization based on key contributing metrics of evaluation
 
 # Assignments
 ### Lab 1
