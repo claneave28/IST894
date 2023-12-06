@@ -1,19 +1,17 @@
-# IST894 - Carl Laneave's Portfolio
-Welcome to my Cybersecurity Portfolio for IST894! This repository showcases the technical expertise and accomplishments throughout my journey in my masters program. Here, you'll find a collection of coding projects, detailed architecture diagrams, and completed assignments, all reflecting my commitment to mastering the intricacies of cybersecurity.
+# IST894 - Carl Laneave's Portfolio [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/claneave28)   [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carl-laneave/) [![mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:claneave28@gmail.com?subject=Hi Carl)
 
+
+ ![Github Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=claneave28&theme=dark) ![Github](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=claneave28&theme=dark)
+
+<hr/>
 # Portfolio 
 
-Each portfolio item is listed based on the assignment given and tracked using VCS. 
+Welcome to my Cybersecurity Portfolio for IST894! This repository showcases the technical expertise and accomplishments throughout my journey in my masters program. Here, you'll find a collection of coding projects, detailed architecture diagrams, and completed assignments, all reflecting my commitment to mastering the intricacies of cybersecurity.
 
-| Assignment                                       | Type                 | Location                                                                     |
-|--------------------------------------------------|----------------------|------------------------------------------------------------------------------|
-| Cyber Range Evaluation (3 Cyber Range Companies) | Product Review       | [Cyber Range](Cyber-Range-Evaluation/)                                       |
- | AWS Automated Golden Image Deployment            | Architectural Design | [Architectural Designs](Architectural%20Designs/packer-architecture.png)     |
- | Serverless Security Architecture                 | Architectural Design | [Architectural Designs](Architectural%20Designs/)                            |
- | State Modeling - Intelligent Agent Project       | Coding Example       | [IST555 - Code Repo](https://github.com/claneave28/intelligent_agent_ist555) |
 
-# Coding Projects
-### IST555 - State Modeling
+
+# Coding Projects ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+### IST555 - State Modeling ([Repo](https://github.com/claneave28/intelligent_agent_ist555))
 - **Description:** Developed a state modeling python framework that would review potential impacts to supply chain based on supply and demand.
 
 - **Key Features:**
@@ -22,7 +20,7 @@ Each portfolio item is listed based on the assignment given and tracked using VC
   * Written exclusively in Python and deployed using Github Actions.
   * Yaml input files to control overall inputs into mutable variables
 
-# Architecture Diagrams ([Folder](Architectural%20Designs/))
+# Architecture Diagrams ![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ([Folder](Architectural%20Designs/))
 ### Network Security Architecture
 - **Description:** Presented a comprehensive network security architecture incorporating firewalls, intrusion detection/prevention systems, and secure network segmentation.
 
